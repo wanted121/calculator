@@ -20,5 +20,5 @@ app.post("/",function(req,res){
 });
 
 app.listen(3000,function(){
-console.log("server start");
+console.log("server start  at the server 3000");
 });
